@@ -4,6 +4,7 @@ sectionid: resources
 is-parent: yes
 title: Resources &amp; Contact
 number: 90
+layout: page
 ---
 [Download this resource as a PDF](../img/DLFMetadataAssessmentWorkingGroup2016.pdf)
 

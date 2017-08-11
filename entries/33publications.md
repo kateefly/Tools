@@ -5,6 +5,7 @@ parent-id: index
 is-parent: yes
 number: 33
 title: Publications
+layout: page
 ---
 
    {::options parse_block_html="true" /}
