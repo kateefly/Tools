@@ -5,6 +5,7 @@ parent-id: review
 is-parent: yes
 number: 34
 title: Tools
+layout: page
 ---
 [Draft and Notes for this Section](https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit#heading=h.nte3qkd91px7)
 

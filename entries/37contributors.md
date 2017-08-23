@@ -4,6 +4,7 @@ sectionid: contributors
 is-parent: yes
 title: 2016 Contributors
 number: 37
+layout: page
 ---
 
 - - --  Janet Ahrberg

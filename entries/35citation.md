@@ -5,6 +5,7 @@ parent-id: review
 is-parent: yes
 number: 35
 title: Citations
+layout: page
 ---
 
 This is a list of citations for all the resources, tools, publications, presentations, and other mentioned in the above environmental scan.
