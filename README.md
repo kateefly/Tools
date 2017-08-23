@@ -1,10 +1,8 @@
 # DLF-AIG Metadata Assessment Working Group
 
-**This is the Sandbox or Development site for the DLF AIG Metadata Working Group Website & Toolkit. The Sandbox deploys to https://dlfaigmwgdev.herokuapp.com/ for viewing.**
+**This is the repository contains all content related to the Environmental Scan undertaken by the DLF AIG Metadata Working Group during 2016 and is a subsection of the DLF AIG MWG Website. This site deploys as a submodule of the [Sandbox](https://github.com/DLFMetadataAssessment/Sandbox) site to https://dlfaigmwgdev.herokuapp.com/ for viewing.**
 
 **See the Live/Production/Current site at http://dlfmetadataassessment.github.io/ and the Repository for the live site at https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/**
-
-**We decided to create a new repository for this Sandbox (instead of development locally for the site) due to the breaking nature of some of the requested changes in 2017 to our group's output.**
 
 ## Intro
 
@@ -16,7 +14,7 @@ We want the [DLF Metadata Assessment Working Group site](http://dlfmetadataasses
 
   * [open a GitHub issue on this repository](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues),
 
-  * [comment on our working docs in this Google Drive folder](https://drive.google.com/open?id=0B74oOQcTdnHjWk51a283bUVta0E),
+  * [submit updates via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe1SG3Yv3WYotd8QlC_e1jp6q0KMQ836LLHjBojXwsQJwiZGQ/viewform?embedded=true)
 
   * [send a message to our Google Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group),
 
@@ -31,6 +29,15 @@ Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Gro
 This is a group effort and we welcome any and all contributions. This information below includes the basics to get you started with making change requests directly to this repository. If you get stuck, please contact a group member. We'd love to improve the documentation to make it easier for everyone to contribute.
 
 ## Practices for Contributing to this Repository
+
+**Setting up a new child site repository**
+
+1. Select the Import Repository Option from the Github site
+2. You will be taken to a page that lets you create a new repository based on an existing one. Make sure the owner of the new repository is DLFMetadataAssessment. For the text box titled "Your old repository's clone URL" input ```https://github.com/DLFMetadataAssessment/EnvironmentalScan.git```. This is the URL for the EnvironmentalScan child repository.
+3. Delete the content of the entries folder. You will repopulate this folder with content of your new child repository.
+4. Modify ReadMe.md as needed to describe your new child repository.
+5. Modify Index.md as needed to describe your new child repository.
+6. Modify includes/nav.html. You will need to update the link to the Environmental Scan section and add the link the link to your new child repository.
 
 **Branch Names**
 
