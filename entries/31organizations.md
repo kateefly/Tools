@@ -7,6 +7,11 @@ number: 31
 title: Organizations &amp; Groups
 layout: page
 ---
+
+   {::options parse_block_html="true" /}
+
+# Organizations &amp; Groups
+
 [Draft and Notes for this Section](https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit#heading=h.ur4v6u3nkorp)
 
 <h3>Summary</h3>

@@ -7,6 +7,10 @@ number: 37
 layout: page
 ---
 
+   {::options parse_block_html="true" /}
+
+# 2016 Contributors
+
 - - --  Janet Ahrberg
 - - --  Shaun Akhtar
 - - --  Filipe Bento

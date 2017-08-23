@@ -10,6 +10,8 @@ layout: page
 
    {::options parse_block_html="true" /}
 
+# Publications
+
 The publications review detailed in this section was completed in 2016. We continue to actively collect citations of interest in [the Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates you would like to offer to that list.
 
 <h3>Summary</h3>

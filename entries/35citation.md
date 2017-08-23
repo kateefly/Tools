@@ -8,6 +8,10 @@ title: Citations
 layout: page
 ---
 
+   {::options parse_block_html="true" /}
+
+# Citations
+
 This is a list of citations for all the resources, tools, publications, presentations, and other mentioned in the above environmental scan.
 
 ALCTS/LITA Metadata Standards Committee. Principles for Evaluating Metadata Standards (draft). 2015-10-27. [http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/](http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/)
