@@ -7,6 +7,11 @@ number: 32
 title: Presentations
 layout: page
 ---
+
+   {::options parse_block_html="true" /}
+
+# Presentations
+
 [Draft and Notes for this Section](https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit#heading=h.mymr4zhj8h6q)
 
 Presentations collected are organized below from earliest to most current. If you have a presentation or description to add, please see the <a href="#take-part">Take Part</a> section - and thank you!
