@@ -37,7 +37,7 @@ This is a group effort and we welcome any and all contributions. This informatio
 3. Delete the content of the entries folder. You will repopulate this folder with content of your new child repository.
 4. Modify ReadMe.md as needed to describe your new child repository.
 5. Modify Index.md as needed to describe your new child repository.
-6. Modify includes/nav.html. You will need to update the link to the Environmental Scan section and add the link the link to your new child repository.
+6. Modify includes/nav.html. You will need to remove the links to the Environmental Scan child repository and add links to your new repository and any new content in the entries folder. Your new repository can be linked as the root page ```/```. Put any pages in the entries folder you create in an unordered list under the link to your new repository. The links to these will follow the format ```/entries/filename.html``` where "filename" is the file name of the page you are linking to.
 
 **Branch Names**
 
