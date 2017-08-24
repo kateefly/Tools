@@ -1,7 +1,7 @@
 ---
 sectionclass: h2
-sectionid: citations
-parent-id: review
+sectionid: index-citations
+parent-id: index
 is-parent: yes
 number: 35
 title: Citations
@@ -12,7 +12,7 @@ layout: page
 
 # Citations
 
-This is a list of citations for all the resources, tools, publications, presentations, and other mentioned in the above environmental scan.
+This is a list of citations for the resources, tools, publications, presentations, and other resourced mentioned in the 2016 environmental scan. We continue to actively collect citations of interest in [the Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates you would like to offer to that list.
 
 ALCTS/LITA Metadata Standards Committee. Principles for Evaluating Metadata Standards (draft). 2015-10-27. [http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/](http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/)
 <br><br>

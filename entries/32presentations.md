@@ -1,7 +1,7 @@
 ---
 sectionclass: h2
-sectionid: review-pres
-parent-id: review
+sectionid: index-pres
+parent-id: index
 is-parent: yes
 number: 32
 title: Presentations
@@ -12,9 +12,7 @@ layout: page
 
 # Presentations
 
-[Draft and Notes for this Section](https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit#heading=h.mymr4zhj8h6q)
-
-Presentations collected are organized below from earliest to most current. If you have a presentation or description to add, please see the <a href="#take-part">Take Part</a> section - and thank you!
+Presentations reviewed during the 2016 environmental scan are organized below in chronological order. If you have a presentation or description to add, please see the <a href="#take-part">Take Part</a> section - and thank you!
 
 <h3>2003</h3>
 
@@ -92,7 +90,7 @@ Presentations collected are organized below from earliest to most current. If yo
 
 <h4>DPLAFest</h4>
 
-
 <p><em>Perspectives on Data and Quality.</em><br/>Gueguen, Gretchen; Harper, Corey; &amp; Stanton, Chris.<br/><a href="https://dplafest2016.sched.org/event/6Fou/perspectives-on-data-and-quality">Session information</a><br/><a href="http://schd.ws/hosted_files/dplafest2016/69/DPLAfest2016PerspectivesonDataandQuality.pdf">Slides</a></p>
 
 <p>This presentation offers three perspectives on DPLA data: an overview of the data, usage, and language in the descriptions; the strategies involved in data quality control across the collection; and data quality in aggregation.</p>
+
