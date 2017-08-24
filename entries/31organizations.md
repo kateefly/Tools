@@ -1,7 +1,7 @@
 ---
 sectionclass: h2
-sectionid: review
-parent-id: review
+sectionid: index-orgs
+parent-id: index
 is-parent: yes
 number: 31
 title: Organizations &amp; Groups
@@ -12,11 +12,9 @@ layout: page
 
 # Organizations &amp; Groups
 
-[Draft and Notes for this Section](https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit#heading=h.ur4v6u3nkorp)
-
 <h3>Summary</h3>
 
-A wide range of groups are addressing issues related to metadata and issues related to assessment of library services, but relatively few are directly working on the assessment of metadata. Here are some organizations and resources of interest.
+As of 2016, a wide range of groups are addressing issues related to metadata and issues related to assessment of library services, but relatively few are directly working on the assessment of metadata. Here are some organizations and resources of interest collected.
 
 <h3>Europeana</h3>
 
@@ -28,7 +26,7 @@ The [Task Force on Enrichment and Evaluation’s Final Report](http://pro.europe
 
 <h3>Hydra Groups</h3>
 
-The [Hydra Metadata Interest Group](https://wiki.duraspace.org/display/hydra/Hydra+Metadata+Interest+Group) has multiple subgroups that have developed best practices for [technical metadata](https://wiki.duraspace.org/display/hydra/Technical+Metadata+Application+Profile), [rights metadata](https://wiki.duraspace.org/display/hydra/Rights+Metadata+Recommendation), [Segment of a File structural metadata](https://wiki.duraspace.org/display/hydra/Rights+Metadata+Recommendation), and [Applied Linked Data](https://wiki.duraspace.org/display/hydra/Applied+Linked+Data+Working+Group). The best practices and metadata application profiles developed by these groups can help in the assessment of metadata quality, but the work of these groups has not yet explicitly included metadata assessment.  The [Hydra Metrics Interest Group](https://wiki.duraspace.org/display/hydra/Hydra+Metrics+Interest+Group) is involved in the use of scholarly and web metrics to assess the performance of various aspects of Hydra instances.
+_Update: In 2017 the Hydra Project's name was changed to [Samvera](https://wiki.duraspace.org/display/samvera/Samvera)._ The [Hydra Metadata Interest Group](https://wiki.duraspace.org/display/hydra/Hydra+Metadata+Interest+Group) has multiple subgroups that have developed best practices for [technical metadata](https://wiki.duraspace.org/display/hydra/Technical+Metadata+Application+Profile), [rights metadata](https://wiki.duraspace.org/display/hydra/Rights+Metadata+Recommendation), [Segment of a File structural metadata](https://wiki.duraspace.org/display/hydra/Rights+Metadata+Recommendation), and [Applied Linked Data](https://wiki.duraspace.org/display/hydra/Applied+Linked+Data+Working+Group). The best practices and metadata application profiles developed by these groups can help in the assessment of metadata quality, but the work of these groups has not yet explicitly included metadata assessment.  The [Hydra Metrics Interest Group](https://wiki.duraspace.org/display/hydra/Hydra+Metrics+Interest+Group) is involved in the use of scholarly and web metrics to assess the performance of various aspects of Hydra instances.
 
 <h3>SAA</h3>
 
@@ -59,3 +57,4 @@ The 2015 presentation [“Understanding User Discovery of ETD: Metadata or Full-
 <h3>ALCTS/LITA Metadata Standards</h3>
 
 This joint committee has recently drafted ["Principles for Evaluating Metadata Standards"](http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/), which provides seven principles intended to apply to the "development, maintenance, governance, selection, use, and assessment of metadata standards" by LAM organizations. The principles recommend metadata standards that meet real-world needs, are open, flexible, and actively maintained, and that support network connections and interoperability. A recent committee blog post [summarizes and responds to public comments](http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/) made on the initial draft, with a subsequent draft expected later this spring.
+
