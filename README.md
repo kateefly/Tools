@@ -1,6 +1,6 @@
 # DLF-AIG Metadata Assessment Working Group
 
-**This is the repository contains all content related to the Environmental Scan undertaken by the DLF AIG Metadata Working Group during 2016 and is a subsection of the DLF AIG MWG Website. This site deploys as a submodule of the [Sandbox](https://github.com/DLFMetadataAssessment/Sandbox) site to https://dlfaigmwgdev.herokuapp.com/ for viewing.**
+**This is the repository contains all content related to the gathering of metadata assessment tools undertaken by the DLF AIG Metadata Working Group during 2016 and 2017. It is is a subsection of the DLF AIG MWG Website. This site deploys as a submodule of the [Sandbox](https://github.com/DLFMetadataAssessment/Sandbox) site to https://dlfaigmwgdev.herokuapp.com/ for viewing. More information is expected to be added to this site in late 2017 and in 2018.**
 
 **See the Live/Production/Current site at http://dlfmetadataassessment.github.io/ and the Repository for the live site at https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/**
 
