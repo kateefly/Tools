@@ -1,18 +1,16 @@
-full_rebuild: true
+cfull_rebuild: true
 name: DLF Metadata Assessment Working Group
 author: DLF AIG Metadata Working Group
 version: V 1.0
 encoding: utf-8
-defaults:
-  -
-    values:
-      layout: "default"
+theme: minima
 markdown: kramdown
 kramdown:
   input: GFM
 relative_permalinks: false
 collections:
-- entries
+   tools:
+      output: true
 sass:
   sass_dir: _sass
   style: :compressed
